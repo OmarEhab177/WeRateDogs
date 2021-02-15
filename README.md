@@ -15,7 +15,7 @@ WeRateDogs has over 4 millino followers and has received international media cov
   - Cleaning data
 
 we gathered each of the three pieces of data as described below in a Jupyter Notebook titled wrangle_act.ipynb.
-**The WeRateDogs Twitter archive by downloading it from source tab**
+**The WeRateDogs Twitter archive by downloading it from source tab in udacity course**
 
 **The tweet image predictions, we downloaded it programmatically by using the Requests library and 
 the following URL:** https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fd2ad_image-predictions/image-predictions.tsv
