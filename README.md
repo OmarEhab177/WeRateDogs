@@ -30,7 +30,7 @@ Each tweet's JSON data should be written to its own line. Then read this .txt fi
 
 
 ------------------------
-##Assessing Data for this Project
+## Assessing Data for this Project
 After gathering each of the above pieces of data, assess them visually and programmatically for quality and tidiness issues.
 
 I found this following issues
@@ -53,7 +53,7 @@ I found this following issues
   - api_df
     - missing entries (2331 instead of 2356)
 
-##  Cleaning Data
+## Cleaning Data
 The previous issues were cleaned as appropriate resulting in a high quality and tidy master pandas DataFrame
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
